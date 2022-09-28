@@ -6,7 +6,7 @@
 
 Projeto construído na Maratona Explorer 1 da Rocketseat.
 
-[🔗 Clique aqui para acessar 'https://dienensdev.github.io/maratona-explorer-1/']
+[🔗 Clique aqui para acessar https://dienensdev.github.io/maratona-explorer-1/]
 
 ## 🛠 Tecnologias Utilizadas
 
